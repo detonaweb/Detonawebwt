@@ -8,7 +8,7 @@ amarelo="\033[1;33m"
 barra="\E[44;1;37m"
 tag_barra="\E[0m"
 tag="\033[0m"
-url='https://raw.githubusercontent.com/IDSOCIALMEDIA/botsshzap/main/key'
+url='https://raw.githubusercontent.com/detonaweb/Detonawebwt/main/key'
 linha="================================================================"
 linha+="==============================================================="
 clear
