@@ -42,7 +42,7 @@ read resp
   cd $HOME/BOT_WATSAPP
   sleep 5s
   apt-get update -y > /dev/null 2>&1
-  curl -s https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | sudo bash > /dev/null 2>&1
+  curl -s https://deb.nodesource.com/setup_16.x | sudo bash > /dev/null 2>&1
   sleep 4s
   sudo apt install nodejs -y > /dev/null 2>&1
   echo ''
